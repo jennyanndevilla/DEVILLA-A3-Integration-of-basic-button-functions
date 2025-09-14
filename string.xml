@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">MyA2AndroidUi</string>
+    <string name="logo_desc">App logo</string>
+    <string name="app_title">FITNESS CLUB</string>
+    <string name="welcome">WELCOME</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login_social">Login with Social Media</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="create_account">Create Your Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_or_email">Phone number or Email</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="welcome_message">
+        Welcome to Fitness Club! 💪&#10;Your journey to a healthier, stronger you starts today.&#10;We’re excited to have you on board — let’s smash those fitness goals together!
+    </string>
+
+    <string name="thank_you_message">Thank you for signing up to our Fitness Club</string>
+
+</resources>
